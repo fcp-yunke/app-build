@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "LabelColorExpo",
+    "slug": "label-color-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "48.0.0",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "android": {
+      "package": "com.labelcolor.expo"
+    }
+  }
+}
